@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Trending Repos</string>
+    <string name="trending">Trending</string>
+    <string name="settings">Settings</string>
+    <string name="about_title">Trending Repos</string>
+    <string name="about">
+        This application is my solution for the <b>Coding Challenge</b> of the job application process at Hidden Founders.
+    </string>
+    <string name="features" >
+        <b>Features:</b> \n
+        <li>Displaying a list of the most starred Github repos that were created in the last 30 days;</li>\n
+        <li>Usage of RecyclerView to display one repository per row;</li>\n
+        <li>displaying the description of repos;</li>\n
+        <li>Displaying owner name and avatar per repo;</li>\n
+        <li>Infinite Scroll: when reaching the end of the list, scroll down again to load more repos.</li>\n
+    </string>
+    <string name="about_developer">
+        <b>Developed by:</b> HAMZA BENHIDA\n\n<b>Contact:</b> \nemail: hamza.hamza.001@gmail.com\nphone Nº: 06 99 23 47 38
+    </string>
+    <string name="loading">Loading Repos ...</string>
+</resources>
